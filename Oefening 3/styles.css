@@ -1,0 +1,56 @@
+header { 
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    font-family: Verdana, Geneva, sans-serif;
+    color:#595959;
+}
+section { 
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+footer { 
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#2fb6dd;
+    height: 3em;
+}
+.title {
+float: left;
+}
+h4{
+font-family: Verdana, Geneva, sans-serif;
+margin-left: 2em;
+color: #f2f2f2;
+}
+p{
+font-family: Verdana, Geneva, sans-serif;
+margin-left: 2em;
+color: #f2f2f2;
+
+}
+.label{
+float: right;
+margin-top: 2em;
+margin-right: 2em;
+}
+.post{
+border-bottom: 1px solid rgba(0, 0, 0, .1);
+min-height: 6em;
+}
+.green{
+background-color: #44d895;
+}
+.yellow{
+background-color: #ebcc37;
+}
+.red{
+background-color: #e56552;
+}
